@@ -57,7 +57,6 @@
     "from functools import *",
     "from heapq import *",
     "from itertools import *",
-    "from operator import *",
     "from string import *",
     "import math",
     
@@ -219,7 +218,6 @@
     "from functools import *",
     "from heapq import *",
     "from itertools import *",
-    "from operator import *",
     "from string import *",
     "import math",
     

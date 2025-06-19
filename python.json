@@ -59,7 +59,7 @@
     "from itertools import *",
     "from operator import *",
     "from string import *",
-    "from math import *",
+    "import math",
     
     "mod = 1e9+7",
     "def input(): return sys.stdin.readline().strip()",
@@ -221,7 +221,7 @@
     "from itertools import *",
     "from operator import *",
     "from string import *",
-    "from math import *",
+    "import math",
     
     "mod = 1e9+7",
     "def input(): return sys.stdin.readline().strip()",
